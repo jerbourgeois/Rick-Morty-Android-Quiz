@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RickAndMortyQuiz</string>
+    <string name="rules_text">Select the answer from the options given. Once you answer a question you can\'t change your answer. Once you have answered all the questions, you will go to a page that tells you your score.\n\nYou can return to the title screen using the up or back from within the game screen, and this will also end your game.</string>
+    <string name="about_text">The Rick and Morty quiz will help remind you of important concepts you have learned by watching Rick and Morty.\n\nConsider modifying the questions to make this game your own!</string>
 </resources>
